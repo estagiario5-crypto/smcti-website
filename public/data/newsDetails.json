@@ -1,5 +1,67 @@
 [
     {
+    "id": "fim_python",
+    "type": "image",
+    "src": "/assets/images/news/curso_python_fim.jpg",
+    "alt": "Fim do curso de Python",
+    "style": {
+        "display": "flex",
+        "width": "100%",
+        "height": "auto",
+        "flexShrink": 0,
+        "objectFit": "contain"
+    },
+    "title": "Curso de Python encerra mais uma turma e forma novos talentos da tecnologia em Pato Branco",
+    "description": "O curso de Python em Pato Branco chegou ao fim com grande sucesso. Os alunos adquiriram conhecimentos práticos e aplicáveis na linguagem de programação.",
+    "partner": "Secretaria Municipal de Ciência, Tecnologia e Inovação",
+    "datePosted": "27 de outubro de 2026",
+    "content": [
+        "A Secretaria Municipal de Ciência, Tecnologia e Inovação (SMCTI) celebrou a conclusão de mais uma turma do Curso de Python, iniciativa promovida pelo programa PatoTech em parceria com a Universidade Tecnológica Federal do Paraná (UTFPR – Câmpus Pato Branco) e a equipe de robótica PatoBots.",
+        "A capacitação proporcionou aos estudantes horas intensas de aprendizado, desafios práticos e desenvolvimento de projetos orientados à linguagem de programação que é referência no mercado global. O encerramento das atividades reforça o compromisso do município em fortalecer a educação tecnológica e capacitar novos profissionais para atender às demandas do setor.",
+        "A parceria entre a SMCTI, a UTFPR e a PatoBots busca expandir o ecossistema de inovação de Pato Branco, criando oportunidades acessíveis e gratuitas de qualificação em tecnologia.",
+        "A equipe da Secretaria e as instituições parceiras parabenizam todos os concluintes pela dedicação e pelo sucesso ao longo do curso, desejando êxito nos próximos passos do desenvolvimento profissional."
+    ],
+    "images": [
+        "/assets/images/news/curso_python_fim.jpg",
+        ""
+    ],
+    "gallery": [
+        "",
+        ""
+    ]
+    },
+    {
+    "id": "Fim_robotica",
+    "type": "image",
+    "src": "/assets/images/news/foto_fim_python2.jpg",
+    "alt": "Fim do curso de Python",
+    "style": {
+        "display": "flex",
+        "width": "100%",
+        "height": "auto",
+        "flexShrink": 0,
+        "objectFit": "contain"},
+    "title": "Curso de Robótica com Arduino encerra suas aulas em Pato Branco",
+    "description": "", 
+    "partner": "Secretaria Municipal de Ciência, Tecnologia e Inovação",
+    "datePosted": "27 de outubro de 2026",
+    "content": [
+        "O curso de Robótica com Arduino em Pato Branco encerrou suas atividades, marcando a conclusão de uma importante jornada de aprendizado prático e capacitação tecnológica. Durante as aulas, os participantes tiveram a oportunidade de desenvolver competências no manuseio de componentes eletrônicos, programação e resolução de problemas voltados à automação.",
+        "A iniciativa reforça o compromisso do município em promover a inclusão digital e formar novos talentos para o setor de tecnologia. A entrega dos certificados aos alunos celebrou a dedicação dos estudantes e o empenho dos instrutores em fortalecer o aprendizado técnico na região.",
+        "A equipe da Secretaria Municipal de Ciência, Tecnologia e Inovação (SMCTI) parabeniza todos os alunos formados pela conquista e agradece aos parceiros e envolvidos pelo apoio na realização de mais uma capacitação de sucesso.",
+        ""
+    ],
+    "images": [
+        "/assets/images/news/foto_fim_python2.jpg",
+        "/assets/images/news/foto_fim_python.jpg"
+    ],
+    "gallery": [
+        "",
+        ""
+    ]
+    },
+
+    {
     "id": "visita_remanso",
     "type": "image",
     "src": "/assets/images/news/Visita_remanso.jpg",
@@ -12,11 +74,13 @@
         "objectFit": "contain"
     },
     "title": "Parque Tecnológico recebe crianças do Remanso da Pedreira para dia de aprendizado e inovação",
-    "description": "",
+    "description": "O Parque Tecnológico de Pato Branco recebeu a visita das crianças do Remanso da Pedreira para uma agenda voltada ao aprendizado, curiosidade e novos horizontes. Promovida pelo NEJ com apoio da Secretaria, a ação buscou conectar as crianças à inovação e ao empreendedorismo.",
+    "partner": "Secretaria Municipal de Ciência, Tecnologia e Inovação",
     "datePosted": "10 de Outubro de 2026",
     "content": [
         "O Parque Tecnológico de Pato Branco recebeu a visita das crianças do Remanso da Pedreira para uma agenda voltada ao aprendizado, curiosidade e novos horizontes. Promovida pelo NEJ com apoio da Secretaria, a ação buscou conectar as crianças à inovação e ao empreendedorismo.",
         "O futuro da nossa cidade é moldado hoje, unindo tecnologia, educação e oportunidades! A iniciativa reuniu estudantes para um dia especial de aprendizado, curiosidade e novos horizontes no ecossistema de inovação local.",
+        "",
         "Essa ação transformadora foi promovida pelo NEJ (Núcleo dos Jovens Empreendedores), contando com o apoio essencial da Secretaria Municipal de Ciência, Tecnologia e Inovação. Quando conectamos nossas crianças à inovação e ao empreendedorismo, mostramos que o conhecimento não tem limites e que o futuro pertence a elas.",
         ""
     ],

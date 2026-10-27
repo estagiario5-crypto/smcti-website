@@ -1,5 +1,4 @@
 import '@styles/globals.css';
-
 import Nav from "@/components/Nav"
 import Footer from "@/components/Footer"
 import ScrollToTop from "@/components/common/scrolltotop"

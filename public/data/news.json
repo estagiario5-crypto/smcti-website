@@ -1,5 +1,27 @@
 [
   {
+    "id": "fim_python",
+    "image": "/assets/images/news/curso_python_fim.jpg",
+    "title": "Curso de Python encerra mais uma turma e forma novos talentos da tecnologia em Pato Branco",
+    "description": "O curso de Python em Pato Branco chegou ao fim com grande sucesso. Os alunos adquiriram conhecimentos práticos e aplicáveis na linguagem de programação.",
+    "datePosted": "27/10/2026",
+    "partner": "Secretaria Municipal de Ciência, Tecnologia e Inovação",
+    "isNotOpen": false,
+    "link": "/noticias/fim_python",
+    "category": ""
+  },
+  {
+    "id": "Fim_robotica",
+    "image": "/assets/images/news/Foto_fim_curso.jpg",
+    "title": "Curso de Robótica com Arduino encerra suas aulas eforma novos talentos da tecnologia em Pato Branco",
+    "description": "O curso de Robótica com Arduino, promovido pela Secretaria Municipal de Ciência, Tecnologia e Inovação em parceria com a UTFPR, chegou ao fim com grande sucesso. Os alunos adquiriram conhecimentos práticos e aplicáveis na linguagem de programação.",
+    "datePosted": "27/10/2026",
+    "partner": "Secretaria Municipal de Ciência, Tecnologia e Inovação",
+    "isNotOpen": false,
+    "link": "/noticias/Fim_robotica",
+    "category": ""
+  },
+  {
     "id": "visita_remanso",
     "image": "/assets/images/news/Visita_remanso.jpg",
     "title": "Parque Tecnológico recebe crianças do Remanso da Pedreira para dia de aprendizado e inovação",
